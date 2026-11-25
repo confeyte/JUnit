@@ -16,4 +16,14 @@ public class Calculadora {
     public boolean estaAprovado(double media) {
         return media >= 7.0;
     }
+
+    // Exercício 5
+    public int multiplicar(int a, int b) {
+        return a * b;
+    }
+
+    // Exercício 6
+    public boolean ehMaiorDeIdade(int idade) {
+        return idade >= 18;
+    }
 }
